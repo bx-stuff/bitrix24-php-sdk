@@ -1,5 +1,5 @@
 {
-  "name": "mesilov/bitrix24-php-sdk",
+  "name": "bx-stuff/bitrix24-php-sdk",
   "description": "A powerful PHP library for the Bitrix24 REST API",
   "keywords": [
     "Bitrix24",
